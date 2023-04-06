@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": [ "ESNext" ],
+    "target": "ES2015",
+    "module": "CommonJS",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "incremental": true,
+    "skipLibCheck": true,
+    "sourceMap": true
+  },
+  "ts-node": { "swc": true }
+}
